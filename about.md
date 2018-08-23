@@ -4,9 +4,9 @@ title: About
 ---
 
 <p class="message">
-  This is Jeong, Geonhwa. [CV](https://github.com/ghjeong12/ghjeong12.github.io/blob/master/public/geonhwa_cv_180724.pdf).
+  This is Jeong, Geonhwa.
 </p>
-
+[CV]("{{ site.baseurl }}public/geonhwa_cv_180724.pdf")
 My projects are available at [GitHub](https://github.com/ghjeong12).
 
 ## Education
