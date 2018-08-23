@@ -8,8 +8,9 @@ permalink:        pretty
 
 # Setup
 title:            ghjeong12
-tagline:          'A Jekyll theme'
-description:      'Geonhwa Jeong, Korea. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+
+tagline:          'ghjeong12'
+description:      'Geonhwa Jeong, Korea.'
 url:              http://hyde.getpoole.com
 baseurl:          https://ghjeong12.github.io/
 
