@@ -6,7 +6,7 @@ title: About
 <p class="message">
   This is Jeong, Geonhwa.
 </p>
-[CV]({{ site.baseurl }}public/geonhwa_cv_180724.pdf)  
+[CV]({{ site.baseurl }}public/geonhwa_cv_180724.pdf)   
 My projects are available at [GitHub](https://github.com/ghjeong12).
 
 ## Education
