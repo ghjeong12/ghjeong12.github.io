@@ -25,11 +25,8 @@ My projects are available at [GitHub](https://github.com/ghjeong12).
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+1. Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, __**Geonhwa Jeong**__. 2018. TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. *In Proceedings of the 44th International Conference on Management of Data, ACM SIGMOD, Houston, USA.*
+2. __**Geonhwa Jeong**__, Jaeil Kim, Taeho Kim, Jinah Park. 2012.  3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation. *In Proceedings of the 2012 KISS Fall Conference.*
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
