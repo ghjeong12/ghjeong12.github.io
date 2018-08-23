@@ -4,15 +4,8 @@ title: About
 ---
 
 <p class="message">
-  This is Jeong, Geonhwa.
+  This is Jeong, Geonhwa. [CV](https://github.com/ghjeong12/ghjeong12.github.io/blob/master/public/geonhwa_cv_180724.pdf).
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* hey
-* there
 
 My projects are available at [GitHub](https://github.com/ghjeong12).
 
