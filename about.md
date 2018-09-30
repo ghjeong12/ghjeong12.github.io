@@ -9,7 +9,7 @@ title: About
 
 [CV]({{ site.baseurl }}public/geonhwa_cv_180724.pdf)
 
-My projects are available at [GitHub](https://github.com/ghjeong12).
+
 
 ## Education
 
@@ -29,5 +29,8 @@ TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. 
 2. **Geonhwa Jeong**, Jaeil Kim, Taeho Kim, Jinah Park. 2012.  
 3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation. *In Proceedings of the 2012 KISS Fall Conference.*
 
+
+
+My projects are available at [GitHub](https://github.com/ghjeong12).
 
 Thanks for reading!
