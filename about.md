@@ -19,7 +19,8 @@ My projects are available at [GitHub](https://github.com/ghjeong12).
 ## Experience
 
 * Summer intern, Samsung Research, Korea. Jul 18 - Aug 18.
-* 
+* Research Student, Corelab at POSTECH, Korea. Sep 17 - Jun 18.
+* Intern, Kakao Corp, Korea. Jan 15 - Feb 15.
 
 ## Publication
 
