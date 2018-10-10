@@ -7,7 +7,7 @@ title: About
   This is Jeong, Geonhwa.
 </p>
 
-[CV]({{ site.baseurl }}public/geonhwa_cv_181011.pdf)
+[CV]({{ site.baseurl }}public/geonhwa_CV_181011.pdf)
 
 
 
