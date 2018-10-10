@@ -11,12 +11,12 @@ title:            ghjeong12
 
 tagline:          'ghjeong12'
 description:      'Geonhwa Jeong, Korea.'
-url:              http://hyde.getpoole.com
+url:              https://ghjeong12.github.io/
 baseurl:          https://ghjeong12.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Geonhwa Jeong'
+  url:            https://ghjeong12.github.io
 
 paginate:         5
 
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ghjeong12/ghjeong12.github.io
