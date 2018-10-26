@@ -11,3 +11,6 @@ useful architectures for future reference
 
 * Ph.D. Students Must Break Away From Undergraduate Mentality
   * [link](https://cacm.acm.org/magazines/2013/7/165494-ph-d-students-must-break-away-from-undergraduate-mentality/fulltext)
+
+* Reflecting on CS Graduate Admissions 
+  * [link](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html?m=1)
