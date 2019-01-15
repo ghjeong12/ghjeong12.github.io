@@ -13,5 +13,5 @@ For this winter, I will be working on image captioning.
   * Recurrent fusion network for image captioning
 
 * Reference source code
-  * https://github.com/ruotianluo/self-critical.pytorch 
+  * <a href="https://github.com/ruotianluo/self-critical.pytorch">Code</a> 
   * From ./model/Attmodel.py, check how topdown core class and attention class work. 
