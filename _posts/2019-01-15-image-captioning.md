@@ -7,8 +7,10 @@ For this winter, I will be working on image captioning.
 ### To do list
 
 * Paper 1
-  * Bottom up and top down for image captioning and VQA
-  
+  * Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
+  * Motivation
+    * While top-down visual attention mechanisms are used widely in image cationing and VQA, bottom-up mechanisms were not that famous. 
+    * The bottom-up mechanism (based on Faster R-CNN) will be able to provide more various image regions.
 * Paper 2
   * Recurrent fusion network for image captioning
 
