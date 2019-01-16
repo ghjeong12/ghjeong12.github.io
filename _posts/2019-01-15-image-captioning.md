@@ -13,7 +13,9 @@ For this winter, I will be working on image captioning.
     * The bottom-up mechanism (based on Faster R-CNN) will be able to provide more various image regions.
 * Paper 2
   * Recurrent fusion network for image captioning
-
+  * Motivation
+    * In image captioning, encoder-decoder frameworks are being used widely.
+    * Existing frameworks only use one kind of CNNs. This limits the performance of whole framework to the performance of the base CNN. 
 * Reference source code
   * <a href="https://github.com/ruotianluo/self-critical.pytorch">Code</a> 
   * From ./model/Attmodel.py, check how topdown core class and attention class work. 
