@@ -13,13 +13,19 @@ title: About
 
 ## Education
 
-* BS in CiTE and CSE from POSTECH, Korea. Mar 13 - Cur. 
-* Korea Science Academy of KAIST, Korea. Mar 10 - Feb 13.
+* Bachelor of Science in Creative IT Engineering
+  * Double Major in Computer Science and Engineering
+  * Pohang University of Science and Technology (POSTECH). 
+  * Mar 13 - Cur. 
+* Korea Science Academy of KAIST. 
+  * Mar 10 - Feb 13.
 
 ## Experience
 
-* Summer intern, Samsung Research, Korea. Jul 18 - Aug 18.
-* Research Student, Corelab at POSTECH, Korea. Sep 17 - Jun 18.
+* Research Student, Computer Vision Lab at POSTECH, Korea. Sep 18 - Jun Cur.
+* Field Training, Samsung Research, Korea. Jul 18 - Aug 18.
+* Research Student, Compiler Optimization Research Lab at POSTECH, Korea. Sep 17 - Jun 18.
+* Research Student, Database and Data Mining Lab at POSTECH, Korea. Mar 15 - Nov 15.
 * Intern, Kakao Corp, Korea. Jan 15 - Feb 15.
 
 ## Publication
