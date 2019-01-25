@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 -------------------------------------------------------
-<p class="message">
-  This is Jeong, Geonhwa. [CV]({{ site.baseurl }}public/geonhwa_cv_dec18.pdf)
-</p>
+This is Jeong, Geonhwa. [CV]({{ site.baseurl }}public/geonhwa_cv_dec18.pdf)
 
 
 
