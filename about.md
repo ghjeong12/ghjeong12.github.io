@@ -4,10 +4,8 @@ title: About
 ---
 -------------------------------------------------------
 <p class="message">
-  This is Jeong, Geonhwa.
+  This is Jeong, Geonhwa. [CV]({{ site.baseurl }}public/geonhwa_cv_dec18.pdf)
 </p>
-
-[CV]({{ site.baseurl }}public/geonhwa_CV_181011.pdf)
 
 
 
