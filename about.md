@@ -16,13 +16,26 @@ This is Jeong, Geonhwa. [CV]({{ site.baseurl }}public/geonhwa_cv_dec18.pdf)
 * Korea Science Academy of KAIST. 
   * Mar 10 - Feb 13.
 
-## Experience
+## Research Experiences
 
-* Research Student, Computer Vision Lab at POSTECH, Korea. Sep 18 - Jun Cur.
-* Field Training, Samsung Research, Korea. Jul 18 - Aug 18.
-* Research Student, Compiler Optimization Research Lab at POSTECH, Korea. Sep 17 - Jun 18.
-* Research Student, Database and Data Mining Lab at POSTECH, Korea. Mar 15 - Nov 15.
-* Intern, Kakao Corp, Korea. Jan 15 - Feb 15.
+* Research Student, Computer Vision Lab at POSTECH, Pohang, Korea. 
+  * Sep 18 - Cur.
+* Research Student, Compiler Optimization Research Lab at POSTECH, Pohang, Korea. 
+  * Sep 17 - Jun 18.
+* Research Student, Database and Data Mining Lab at POSTECH, Pohang, Korea. 
+  * Mar 15 - Nov 15.
+* Computer Graphics and Vision Lab in KAIST, Daejeon, Korea.
+  * June 2012 - Dec. 2012
+
+## Work Experiences
+
+* Field Training, Samsung Research, Seoul, Korea. 
+  * Jul 18 - Aug 18.
+* Korea Augmentation to the US Army, Seoul, Korea. 
+  * Nov. 2015 - Aug. 2017
+* Intern, Kakao Corp, Seongnam, Korea. 
+  * Jan 15 - Feb 15.
+
 
 ## Publication
 
