@@ -2,7 +2,7 @@
 layout: post
 title: Anaconda commands
 ---
-In this post, I will explain some useful commands in anaconda.
+In this post, I will explain some useful commands in [Anaconda](https://www.anaconda.com/what-is-anaconda/). Using Anaconda, you can manage various environments conveniently.
 
 ### Commands
 
