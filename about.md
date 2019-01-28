@@ -12,29 +12,36 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 * Bachelor of Science in Creative IT Engineering
   * Double Major in Computer Science and Engineering
   * Pohang University of Science and Technology (POSTECH). 
-  * Mar 2013 - Feb 2019 (expected). 
-* Korea Science Academy of KAIST. 
-  * Mar 2010 - Feb 2013.
+  * Mar. 2013 - Feb. 2019 (expected)
+* Korea Science Academy of KAIST
+  * Mar. 2010 - Feb. 2013
 
 ## Research Experiences
 
-* Research Student, Computer Vision Lab at POSTECH, Pohang, Korea. 
-  * Sep 2018 - Cur.
-* Research Student, Compiler Optimization Research Lab at POSTECH, Pohang, Korea. 
-  * Sep 2017 - Jun 2018.
-* Research Student, Database and Data Mining Lab at POSTECH, Pohang, Korea. 
-  * Mar 2015 - Nov 2015.
-* Computer Graphics and Vision Lab in KAIST, Daejeon, Korea.
+* Computer Vision Lab at POSTECH, Pohang, Korea 
+  * Research Student
+  * Sep. 2018 - Cur
+* Compiler Optimization Research Lab at POSTECH, Pohang, Korea
+  * Research Student
+  * Sep. 2017 - Jun. 2018
+* Database and Data Mining Lab at POSTECH, Pohang, Korea
+  * Research Student
+  * Mar. 2015 - Nov. 2015
+* Computer Graphics and Vision Lab in KAIST, Daejeon, Korea
+  * Research Student
   * June 2012 - Dec. 2012
 
 ## Work Experiences
 
-* Field Training, Samsung Research, Seoul, Korea. 
-  * Jul 2018 - Aug 2018.
-* Korea Augmentation to the US Army, Seoul, Korea. 
+* Samsung Research, Seoul, Korea
+  * Field Training
+  * Jul. 2018 - Aug. 2018
+* Korea Augmentation to the US Army, Seoul, Korea
+  * Service Member
   * Nov. 2015 - Aug. 2017
-* Intern, Kakao Corp, Seongnam, Korea. 
-  * Jan 2015 - Feb 2015.
+* Kakao Corp, Seongnam, Korea
+  * Intern
+  * Jan. 2015 - Feb. 2015
 
 
 ## Publication
