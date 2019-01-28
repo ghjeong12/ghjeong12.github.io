@@ -9,7 +9,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 ## Education
 
-* Pohang University of Science and Technology (POSTECH).  in 
+* Pohang University of Science and Technology (POSTECH)
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Mar. 2013 - Feb. 2019 (expected)
 * State University of New York at Stony Brook
