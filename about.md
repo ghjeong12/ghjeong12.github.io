@@ -11,7 +11,8 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 * Pohang University of Science and Technology (POSTECH)
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
-  * Mar. 2013 - Feb. 2019 (expected)
+  * Summa Cum Laude
+  * Mar. 2013 - Feb. 2019
 * State University of New York at Stony Brook
   * Exchange Student
   * July. 2013 - Dec. 2013
@@ -22,7 +23,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 * Computer Vision Lab at POSTECH, Pohang, Korea 
   * Research Student
-  * Sep. 2018 - Cur
+  * Sep. 2018 - Feb. 2018
 * Compiler Optimization Research Lab at POSTECH, Pohang, Korea
   * Research Student
   * Sep. 2017 - Jun. 2018
@@ -35,6 +36,9 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 ## Work Experiences
 
+* VoyagerX, Seoul, Korea
+  * Intern
+  * Feb. 2018 - Cur.
 * Samsung Research, Seoul, Korea
   * Field Training
   * Jul. 2018 - Aug. 2018
