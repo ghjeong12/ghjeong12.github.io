@@ -8,7 +8,10 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 
 ## Education
-
+* Georgia Institute of Technology (Georgia Tech)
+  * PhD student, Computer Science
+  * Specializing in computer architecture
+  * Aug. 2019 - 
 * Pohang University of Science and Technology (POSTECH)
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Summa Cum Laude
