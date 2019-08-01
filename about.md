@@ -41,7 +41,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 * VoyagerX, Seoul, Korea
   * Intern
-  * Feb. 2018 - Cur.
+  * Feb. 2019 - Jul. 2019
 * Samsung Research, Seoul, Korea
   * Field Training
   * Jul. 2018 - Aug. 2018
