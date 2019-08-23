@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Posts
-pagination:
-  enabled: trues
+layout: default
+title: Home
 ---
-<h1> Posts </h1>
+<p> I am PhD student at Computer Science, Georgia Tech.</p>
+
+<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -37,3 +37,4 @@ pagination:
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
