@@ -3,6 +3,7 @@ layout: post
 title: Example content
 ---
 
+I will just keep this post for the future reference.
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
