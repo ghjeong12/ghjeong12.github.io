@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 -------------------------------------------------------
-This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}public/geonhwa_cv_dec18.pdf).
+This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}public/geonhwa_cv_1908.pdf).
 
 
 
