@@ -7,7 +7,8 @@ In this post, I would like to explain some keywords related to GPGPU Memory Subs
 ### Keywords
 
 * Thrashing
-* CPU Memory
+* CPU Physical Memory
+* GPU Physical Memory
 * Unified Virtual Memory
 
 ## Related Works
