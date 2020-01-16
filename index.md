@@ -3,13 +3,15 @@ layout: page
 title: Home
 ---
 -------------------------------------------------------
-This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}public/geonhwa_cv_1908.pdf).
+I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
+The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_1908.pdf).
 
 
 
 ## Education
 * Georgia Institute of Technology (Georgia Tech)
   * PhD student, Computer Science
+  * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
   * Specializing in computer architecture
   * Aug. 2019 - 
 * Pohang University of Science and Technology (POSTECH)
@@ -24,6 +26,9 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 ## Research Experiences
 
+* Synergy Lab at Georgia Tech, Atlanta, GA, USA 
+  * Graduate Research Assistant
+  * Jan. 2020 - 
 * Computer Vision Lab at POSTECH, Pohang, Korea 
   * Research Student
   * Sep. 2018 - Feb. 2018
