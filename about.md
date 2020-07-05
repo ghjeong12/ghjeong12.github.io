@@ -7,7 +7,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 
 
-## Education
+### Education
 * Georgia Institute of Technology (Georgia Tech)
   * PhD student, Computer Science
   * Specializing in computer architecture
@@ -22,7 +22,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 * Korea Science Academy of KAIST
   * Mar. 2010 - Feb. 2013
 
-## Research Experiences
+### Research Experiences
 
 * Computer Vision Lab at POSTECH, Pohang, Korea 
   * Research Student
@@ -37,7 +37,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
   * Research Student
   * June 2012 - Dec. 2012
 
-## Work Experiences
+### Work Experiences
 
 * VoyagerX, Seoul, Korea
   * Intern
@@ -53,7 +53,7 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
   * Jan. 2015 - Feb. 2015
 
 
-## Publication
+### Publication
 
 1. Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, **Geonhwa Jeong**. 2018.  
 TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. *In Proceedings of the 44th International Conference on Management of Data, ACM SIGMOD, Houston, USA.*
