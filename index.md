@@ -26,7 +26,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 ## Research Experiences
 
-* Synergy Lab at Georgia Tech, Atlanta, GA, USA 
+* [Synergy Lab](https://synergy.ece.gatech.edu/) at Georgia Tech, Atlanta, GA, USA 
   * Graduate Research Assistant
   * Jan. 2020 - 
 * Computer Vision Lab at POSTECH, Pohang, Korea 
@@ -44,16 +44,20 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 ## Work Experiences
 
+
+* [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA
+  * Intern
+  * May 2020 - Aug. 2020
 * VoyagerX, Seoul, Korea
   * Intern
   * Feb. 2019 - Jul. 2019
-* Samsung Research, Seoul, Korea
+* [Samsung Research](https://research.samsung.com/), Seoul, Korea
   * Field Training
   * Jul. 2018 - Aug. 2018
 * Korea Augmentation to the US Army, Seoul, Korea
   * Service Member
   * Nov. 2015 - Aug. 2017
-* Kakao Corp, Seongnam, Korea
+* [Kakao Corp](https://www.kakaocorp.com/?lang=en), Seongnam, Korea
   * Intern
   * Jan. 2015 - Feb. 2015
 
@@ -64,9 +68,3 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. *In Proceedings of the 44th International Conference on Management of Data, ACM SIGMOD, Houston, USA.*
 2. **Geonhwa Jeong**, Jaeil Kim, Taeho Kim, Jinah Park. 2012.  
 3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation. *In Proceedings of the 2012 KIISE Fall Conference.*
-
-
-
-My projects are available at [GitHub](https://github.com/ghjeong12).
-
-Thanks for reading!
