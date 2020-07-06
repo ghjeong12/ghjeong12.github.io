@@ -8,7 +8,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 
 
-## Education
+### Education
 * [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/)
   * PhD student, Computer Science
   * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
@@ -24,7 +24,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 * Korea Science Academy of KAIST
   * Mar. 2010 - Feb. 2013
 
-## Research Experiences
+### Research Experiences
 
 * [Synergy Lab](https://synergy.ece.gatech.edu/) at Georgia Tech, Atlanta, GA, USA 
   * Graduate Research Assistant
@@ -42,11 +42,11 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
   * Research Student
   * June 2012 - Dec. 2012
 
-## Work Experiences
+### Work Experiences
 
 
 * [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA
-  * Intern
+  * Graduate Intern
   * May 2020 - Aug. 2020
 * VoyagerX, Seoul, Korea
   * Intern
@@ -62,7 +62,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
   * Jan. 2015 - Feb. 2015
 
 
-## Publication
+### Publication
 
 1. Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, **Geonhwa Jeong**. 2018.  
 TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. *In Proceedings of the 44th International Conference on Management of Data, ACM SIGMOD, Houston, USA.*
