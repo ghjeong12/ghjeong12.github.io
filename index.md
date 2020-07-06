@@ -9,12 +9,12 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 
 ## Education
-* Georgia Institute of Technology (Georgia Tech)
+* [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/)
   * PhD student, Computer Science
   * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
   * Specializing in computer architecture
   * Aug. 2019 - 
-* Pohang University of Science and Technology (POSTECH)
+* [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Summa Cum Laude
   * Mar. 2013 - Feb. 2019
