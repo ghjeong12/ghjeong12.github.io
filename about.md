@@ -55,10 +55,17 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 ### Publication
 
-1. Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, **Geonhwa Jeong**. 2018.  
-TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data. *In Proceedings of the 44th International Conference on Management of Data, ACM SIGMOD, Houston, USA.*
-2. **Geonhwa Jeong**, Jaeil Kim, Taeho Kim, Jinah Park. 2012.  
-3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation. *In Proceedings of the 2012 KIISE Fall Conference.*
+1. **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning**  
+Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
+In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Oct 2020
+
+2. **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
+Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
+In Proc. of the 44th International Conference on Management of Data (**SIGMOD**), Houston, TX, USA, May 2018
+
+3. **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
+<ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
+In Proc. of the 2012 KIISE Fall Conference, 2012.
 
 
 
