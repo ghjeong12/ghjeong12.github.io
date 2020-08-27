@@ -71,6 +71,13 @@ a {
   text-decoration: none;
 }
 
+a.label:hover,
+a.label:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .badge-base {
     display: inline;
     padding: .2em .6em .3em;
@@ -269,6 +276,10 @@ tbody tr:nth-child(odd) th {
 
 .badge-micro {
   background-color: #d0a545;
+}
+
+.badge-sigmod {
+  background-color:  #80ffff;
 }
 
 /*
