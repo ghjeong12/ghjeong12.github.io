@@ -64,7 +64,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 ### Publication
 
-1. <a class="badge label-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning**  
+1. <a class="badge badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
 In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Oct 2020
 
