@@ -70,7 +70,8 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
-a badge-base {
+
+.badge-base {
     display: inline;
     padding: .2em .6em .3em;
     font-size: 75%;
@@ -82,6 +83,7 @@ a badge-base {
     vertical-align: baseline;
     border-radius: .25em;
 }
+
 a strong {
   color: inherit;
 }
