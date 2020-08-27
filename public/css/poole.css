@@ -70,6 +70,18 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
+a badge-base {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
 a strong {
   color: inherit;
 }
@@ -251,19 +263,7 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-// Base class
-.badge-base {
-    display: inline;
-    padding: .2em .6em .3em;
-    font-size: 75%;
-    font-weight: bold;
-    line-height: 1;
-    color: #fff;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
-}
+
 
 .badge-micro {
   background-color: #d0a545;
