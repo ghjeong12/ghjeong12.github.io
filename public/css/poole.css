@@ -252,7 +252,7 @@ tbody tr:nth-child(odd) th {
 }
 
 // Base class
-.badge {
+.badge-base {
     display: inline;
     padding: .2em .6em .3em;
     font-size: 75%;
