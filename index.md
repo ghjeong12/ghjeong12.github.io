@@ -64,11 +64,11 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 ### Publication
 
-1. <a class="badge badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning**  
+1. <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
 In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Oct 2020
 
-2. <a class="badge badge-micro" href="https://sigmod2018.org/" target="_blank">SIGMOD-44</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
+2. <a class="badge-base badge-micro" href="https://sigmod2018.org/" target="_blank">SIGMOD-44</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
 Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
 In Proc. of the 44th International Conference on Management of Data (**SIGMOD**), Houston, TX, USA, May 2018
 
