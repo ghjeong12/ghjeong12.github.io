@@ -8,19 +8,19 @@ This is Jeong, Geonhwa. The PDF version is available at [CV]({{ site.baseurl }}p
 
 
 ### Education
-* Georgia Institute of Technology (Georgia Tech)
+Georgia Institute of Technology (Georgia Tech)
   * PhD student, Computer Science
   * Specializing in computer architecture
-  * Aug. 2019 - 
-* Pohang University of Science and Technology (POSTECH)
+  * Aug. 2019 -   
+Pohang University of Science and Technology (POSTECH)  
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Summa Cum Laude
-  * Mar. 2013 - Feb. 2019
-* State University of New York at Stony Brook
+  * Mar. 2013 - Feb. 2019  
+State University of New York at Stony Brook  
   * Exchange Student
-  * July. 2013 - Dec. 2013
-* Korea Science Academy of KAIST
-  * Mar. 2010 - Feb. 2013
+  * July. 2013 - Dec. 2013  
+Korea Science Academy of KAIST  
+  * Mar. 2010 - Feb. 2013  
 
 ### Research Experiences
 
