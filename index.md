@@ -9,7 +9,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 
 ### Education
-[Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/). 
+[Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
   * PhD student, Computer Science
   * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
   * Specializing in computer architecture
@@ -20,7 +20,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
   * Summa Cum Laude
   * Mar. 2013 - Feb. 2019  
 
-State University of New York at Stony Brook  
+[State University of New York at Stony Brook] (https://www.stonybrook.edu/)  
   * Exchange Student
   * July. 2013 - Dec. 2013  
 
