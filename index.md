@@ -29,40 +29,48 @@ Korea Science Academy of KAIST
 
 ### Research Experiences
 
-* [Synergy Lab](https://synergy.ece.gatech.edu/) at Georgia Tech, Atlanta, GA, USA 
+[Synergy Lab](https://synergy.ece.gatech.edu/) at Georgia Tech, Atlanta, GA, USA  
   * Graduate Research Assistant
-  * Jan. 2020 - 
-* Computer Vision Lab at POSTECH, Pohang, Korea 
+  * Jan. 2020 -  
+  
+Computer Vision Lab at POSTECH, Pohang, Korea  
   * Research Student
-  * Sep. 2018 - Feb. 2018
-* Compiler Optimization Research Lab at POSTECH, Pohang, Korea
+  * Sep. 2018 - Feb. 2018  
+  
+Compiler Optimization Research Lab at POSTECH, Pohang, Korea  
   * Research Student
-  * Sep. 2017 - Jun. 2018
-* Database and Data Mining Lab at POSTECH, Pohang, Korea
+  * Sep. 2017 - Jun. 2018  
+  
+Database and Data Mining Lab at POSTECH, Pohang, Korea  
   * Research Student
-  * Mar. 2015 - Nov. 2015
-* Computer Graphics and Vision Lab in KAIST, Daejeon, Korea
+  * Mar. 2015 - Nov. 2015  
+  
+Computer Graphics and Vision Lab in KAIST, Daejeon, Korea  
   * Research Student
-  * June 2012 - Dec. 2012
+  * June 2012 - Dec. 2012  
 
 ### Work Experiences
 
 
-* [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA
+[Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA  
   * Graduate Intern
-  * May 2020 - Aug. 2020
-* VoyagerX, Seoul, Korea
+  * May 2020 - Aug. 2020  
+
+VoyagerX, Seoul, Korea
   * Intern
-  * Feb. 2019 - Jul. 2019
-* [Samsung Research](https://research.samsung.com/), Seoul, Korea
+  * Feb. 2019 - Jul. 2019  
+
+[Samsung Research](https://research.samsung.com/), Seoul, Korea. 
   * Field Training
-  * Jul. 2018 - Aug. 2018
-* Korea Augmentation to the US Army, Seoul, Korea
+  * Jul. 2018 - Aug. 2018  
+
+Korea Augmentation to the US Army, Seoul, Korea  
   * Service Member
-  * Nov. 2015 - Aug. 2017
-* [Kakao Corp](https://www.kakaocorp.com/?lang=en), Seongnam, Korea
+  * Nov. 2015 - Aug. 2017  
+
+[Kakao Corp](https://www.kakaocorp.com/?lang=en), Seongnam, Korea  
   * Intern
-  * Jan. 2015 - Feb. 2015
+  * Jan. 2015 - Feb. 2015  
 
 
 ### Publication
