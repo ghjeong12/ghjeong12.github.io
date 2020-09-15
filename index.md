@@ -4,7 +4,7 @@ title: Home
 ---
 -------------------------------------------------------
 I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
-The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_1908.pdf).
+The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_Aug20.pdf).
 
 
 
@@ -53,7 +53,7 @@ Computer Graphics and Vision Lab in KAIST, Daejeon, Korea
 
 
 [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA  
-  * Graduate Intern
+  * Graduate Technical Intern
   * May 2020 - Aug. 2020  
 
 VoyagerX, Seoul, Korea
