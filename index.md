@@ -75,7 +75,7 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication
 
-1. <a class="badge-base badge-micro" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC-26</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
+1. <a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC-26</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
 Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
 In Proc. of the 24th Asia and South Pacific Design Automation Conference (**ASP-DAC**) (to appear)  
 Jan 2021
