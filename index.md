@@ -92,4 +92,5 @@ May 2018
 
 4. **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
 <ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
-In Proc. of the 2012 KIISE Fall Conference, 2012.
+In Proc. of the 2012 KIISE Fall Conference  
+2012
