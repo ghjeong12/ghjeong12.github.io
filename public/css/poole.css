@@ -272,8 +272,9 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
-
+.badge-aspdac {
+  background-color: #900C3F;
+}
 .badge-micro {
   background-color: #d0a545;
 }
