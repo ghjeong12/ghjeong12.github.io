@@ -75,14 +75,21 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication
 
-1. <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
+1. <a class="badge-base badge-micro" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC-26</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
+Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
+In Proc. of the 24th Asia and South Pacific Design Automation Conference (**ASP-DAC**) (to appear)  
+Jan 2021
+
+2. <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
-In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), Oct 2020
+In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
+Oct 2020
 
-2. <a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD-44</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
+3. <a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD-44</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
 Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
-In Proc. of the 44th International Conference on Management of Data (**SIGMOD**), Houston, TX, USA, May 2018
+In Proc. of the 44th International Conference on Management of Data (**SIGMOD**)  
+May 2018
 
-3. **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
+4. **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
 <ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
 In Proc. of the 2012 KIISE Fall Conference, 2012.
