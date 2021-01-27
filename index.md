@@ -84,8 +84,7 @@ May 2021 (to appear)
 <a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC'21</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
 Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
 In Proc. of the 26th Asia and South Pacific Design Automation Conference (**ASP-DAC**)   
-Jan 2021  
-<font color='red'>++ Best Paper Candidate </font>
+Jan 2021 (<span style="color:red">Best Paper Candidate</span>)
 
 <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO'20</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
