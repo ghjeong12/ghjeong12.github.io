@@ -75,27 +75,28 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication
 
-1. <a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS-35</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
+
+<a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS'21</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
 Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam and Tushar Krishna  
 In Proc. of the 35th IEEE International Parallel & Distributed Processing Symposium (**IPDPS**)   
 May 2021 (to appear)
 
-2. <a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC-26</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
+<a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC'21</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
 Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
 In Proc. of the 26th Asia and South Pacific Design Automation Conference (**ASP-DAC**)   
 Jan 2021  
 
-3. <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO-53</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
+<a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO'20</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
 In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
 Oct 2020
 
-4. <a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD-44</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
+<a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD'18</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
 Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
 In Proc. of the 44th International Conference on Management of Data (**SIGMOD**)  
 May 2018
 
-5. **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
+**3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
 <ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
 In Proc. of the 2012 KIISE Fall Conference  
 2012
