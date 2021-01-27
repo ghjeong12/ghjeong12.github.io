@@ -271,7 +271,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-
+.badge-ipdps {
+  background-color: #574266;
+}
 .badge-aspdac {
   background-color: #900C3F;
 }
