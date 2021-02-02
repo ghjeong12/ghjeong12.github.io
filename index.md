@@ -84,17 +84,20 @@ May 2021 (to appear)
 <a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC'21</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
 Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
 In Proc. of the 26th Asia and South Pacific Design Automation Conference (**ASP-DAC**)   
-Jan 2021 (<span style="color:red">Best Paper Candidate</span>)
+Jan 2021 (<span style="color:red">Best Paper Candidate</span>)  
+[[Paper]](https://dl.acm.org/doi/10.1145/3394885.3431421)
 
 <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO'20</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
 In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
-Oct 2020
+Oct 2020  
+[[Paper]](https://ieeexplore.ieee.org/document/9251929)
 
 <a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD'18</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
 Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
 In Proc. of the 44th International Conference on Management of Data (**SIGMOD**)  
-May 2018
+May 2018  
+[[Paper]](https://dl.acm.org/doi/10.1145/3183713.3196917)
 
 **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
 <ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
