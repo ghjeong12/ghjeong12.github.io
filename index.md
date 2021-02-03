@@ -89,7 +89,7 @@ Jan 2021 (<span style="color:red">Best Paper Candidate</span>)
 
 <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO'20</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
-In Proc. of 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
+In Proc. of the 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
 Oct 2020  
 [[Paper]](https://ieeexplore.ieee.org/document/9251929)
 
@@ -101,5 +101,6 @@ May 2018
 
 **3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
 <ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
-In Proc. of the 2012 KIISE Fall Conference  
-2012
+In Proc. of the 39th Korean Institute of Information Scientists and Engineers Fall Conference  
+Nov 2012  
+[[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02048348&language=en_EN)
