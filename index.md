@@ -76,6 +76,11 @@ Korea Augmentation to the US Army, Seoul, Korea
 ### Publication
 
 
+<a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
+<ins>Geonhwa Jeong</ins>, Eric Qin, Ananda Samajdar, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
+In Proc. of the 58th Annual Design Automation Conference (**DAC**)   
+July 2021 (to appear)
+
 <a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS'21</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
 Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam and Tushar Krishna  
 In Proc. of the 35th IEEE International Parallel & Distributed Processing Symposium (**IPDPS**)   
