@@ -51,12 +51,15 @@ Computer Graphics and Vision Lab in KAIST, Daejeon, Korea
 
 ### Work Experiences
 
+[Facebook](https://about.facebook.com/company-info/), Seattle, WA, USA  
+  * Research Engineering Intern
+  * May 2021 - Aug. 2021  
 
 [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA  
   * Graduate Technical Intern
   * May 2020 - Aug. 2020  
 
-VoyagerX, Seoul, Korea
+[VoyagerX](https://www.voyagerx.com/?lang=en), Seoul, Korea
   * Intern
   * Feb. 2019 - Jul. 2019  
 
