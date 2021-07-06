@@ -78,16 +78,21 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication
 
+<a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'21</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
+Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Sivasankaran Rajamanickam, Tushar Krishna  
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**) (Special Section on Innovative R&D toward the Exascale Era)    
+2021 (to appear)
 
 <a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
 <ins>Geonhwa Jeong</ins>, Eric Qin, Ananda Samajdar, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
 In Proc. of the 58th Annual Design Automation Conference (**DAC**)   
-July 2021 (to appear)
+Dec 2021 (to appear)
 
 <a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS'21</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
-Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam and Tushar Krishna  
+Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam, Tushar Krishna  
 In Proc. of the 35th IEEE International Parallel & Distributed Processing Symposium (**IPDPS**)   
-May 2021 (to appear)
+May 2021  
+[[Paper]](https://arxiv.org/pdf/2103.10452.pdf)
 
 <a class="badge-base badge-aspdac" href="http://www.aspdac.com/aspdac2021/" target="_blank">ASP-DAC'21</a> **Bridging the Frequency Gap in Heterogeneous 3D SoCs through Technology-Specific NoC Router Architectures**  
 Jan Moritz Joseph, Lennart Bamberg, <ins>Geonhwa Jeong</ins>, Ruei-Ting Chien, Rainer Leupers, Alberto Garcia-Ortiz, Tushar Krishna, Thilo Pionteck  
