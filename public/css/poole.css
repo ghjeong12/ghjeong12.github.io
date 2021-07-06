@@ -271,6 +271,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.badge-tpds {
+  background-color: #14213d;
+}
 .badge-dac {
   background-color: #9b5ee4;
 }
