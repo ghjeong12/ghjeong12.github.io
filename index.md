@@ -83,10 +83,15 @@ Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Siv
 IEEE Transactions on Parallel and Distributed Systems (**TPDS**) (Special Section on Innovative R&D toward the Exascale Era)    
 2021 (to appear)
 
-<a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
+<a class="badge-base badge-dac" href="http://pact21.snu.ac.kr/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
 <ins>Geonhwa Jeong</ins>, Eric Qin, Ananda Samajdar, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
 In Proc. of the 58th Annual Design Automation Conference (**DAC**)   
 Dec 2021 (to appear)
+
+<a class="badge-base badge-pact" href="https://www.dac.com/" target="_blank">PACT'21</a> **Union: A Unified HW-SW Co-Design Ecosystem in MLIR for Evaluating Tensor Operations on Spatial Accelerators**  
+<ins>Geonhwa Jeong</ins>, Gokcen Kestor, Prasanth Chatarasi, Angshuman Parashar, Po-An Tsai, Siva Rajamanickam, Roberto Gioiosa and Tushar Krishna 
+In Proc. of the 30th International Conference on Parallel Architectures and Compilation Techniques (**PACT**)   
+Sep 2021
 
 <a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS'21</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
 Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam, Tushar Krishna  
