@@ -89,7 +89,7 @@ In Proc. of the 58th Annual Design Automation Conference (**DAC**)
 Dec 2021 (to appear)
 
 <a class="badge-base badge-pact" href="http://pact21.snu.ac.kr/" target="_blank">PACT'21</a> **Union: A Unified HW-SW Co-Design Ecosystem in MLIR for Evaluating Tensor Operations on Spatial Accelerators**  
-<ins>Geonhwa Jeong</ins>, Gokcen Kestor, Prasanth Chatarasi, Angshuman Parashar, Po-An Tsai, Siva Rajamanickam, Roberto Gioiosa and Tushar Krishna 
+<ins>Geonhwa Jeong</ins>, Gokcen Kestor, Prasanth Chatarasi, Angshuman Parashar, Po-An Tsai, Siva Rajamanickam, Roberto Gioiosa, Tushar Krishna  
 In Proc. of the 30th International Conference on Parallel Architectures and Compilation Techniques (**PACT**)   
 Sep 2021
 
