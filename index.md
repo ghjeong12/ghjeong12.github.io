@@ -76,7 +76,7 @@ Korea Augmentation to the US Army, Seoul, Korea
   * Jan. 2015 - Feb. 2015  
 
 
-### Publication
+### Publication [(Google Scholar)](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en)
 
 <a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'21</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
 Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Sivasankaran Rajamanickam, Tushar Krishna  
