@@ -78,15 +78,23 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication [(Google Scholar)](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en)
 
-<a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'21</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
+<a class="badge-base badge-ispass" href="https://www.computer.org/csdl/journal/td" target="_blank">ISPASS'22</a> **Understanding Data Compression in Warehouse-Scale Datacenter Services**  
+<ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, and Tushar Krishna  
+In Proc of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
+May 2022  
+(to appear)
+
+<a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'22</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
 Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Sivasankaran Rajamanickam, Tushar Krishna  
 IEEE Transactions on Parallel and Distributed Systems (**TPDS**) (Special Section on Innovative R&D toward the Exascale Era)    
-2021 (to appear)
+Apr 2022   
+[[Paper]](https://ieeexplore.ieee.org/document/9511786)
 
 <a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
 <ins>Geonhwa Jeong</ins>, Eric Qin, Ananda Samajdar, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
 In Proc. of the 58th Annual Design Automation Conference (**DAC**)   
-Dec 2021 (to appear)
+Dec 2021  
+[[Paper]](https://ieeexplore.ieee.org/document/9586257)
 
 <a class="badge-base badge-pact" href="http://pact21.snu.ac.kr/" target="_blank">PACT'21</a> **Union: A Unified HW-SW Co-Design Ecosystem in MLIR for Evaluating Tensor Operations on Spatial Accelerators**  
 <ins>Geonhwa Jeong</ins>, Gokcen Kestor, Prasanth Chatarasi, Angshuman Parashar, Po-An Tsai, Siva Rajamanickam, Roberto Gioiosa, Tushar Krishna  
