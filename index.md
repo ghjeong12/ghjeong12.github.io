@@ -78,7 +78,7 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 ### Publication [(Google Scholar)](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en)
 
-<a class="badge-base badge-ispass" href="https://www.computer.org/csdl/journal/td" target="_blank">ISPASS'22</a> **Understanding Data Compression in Warehouse-Scale Datacenter Services**  
+<a class="badge-base badge-ispass" href="https://ispass.org/ispass2022/" target="_blank">ISPASS'22</a> **Understanding Data Compression in Warehouse-Scale Datacenter Services**  
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, and Tushar Krishna  
 In Proc of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
 May 2022  
