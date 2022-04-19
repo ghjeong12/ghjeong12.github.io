@@ -271,6 +271,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.badge-ispass {
+  background-color: #d070fb;
+}
 .badge-pact {
   background-color: #1101f3;
 }
