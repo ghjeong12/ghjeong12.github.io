@@ -99,7 +99,8 @@ Dec 2021
 <a class="badge-base badge-pact" href="http://pact21.snu.ac.kr/" target="_blank">PACT'21</a> **Union: A Unified HW-SW Co-Design Ecosystem in MLIR for Evaluating Tensor Operations on Spatial Accelerators**  
 <ins>Geonhwa Jeong</ins>, Gokcen Kestor, Prasanth Chatarasi, Angshuman Parashar, Po-An Tsai, Siva Rajamanickam, Roberto Gioiosa, Tushar Krishna  
 In Proc. of the 30th International Conference on Parallel Architectures and Compilation Techniques (**PACT**)   
-Sep 2021
+Sep 2021  
+[[Paper]](https://ieeexplore.ieee.org/document/9563040)
 
 <a class="badge-base badge-ipdps" href="https://www.ipdps.org/" target="_blank">IPDPS'21</a> **Extending Sparse Tensor Accelerators to Support Multiple Compression Formats**  
 Eric Qin, <ins>Geonhwa Jeong</ins>, William Won, Sheng-Chun Kao, Hyoukjun Kwon, Sudarshan Srinivasan, Dipankar Das, Gordon E. Moon, Sivasankaran Rajamanickam, Tushar Krishna  
