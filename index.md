@@ -51,6 +51,10 @@ Computer Graphics and Vision Lab in KAIST, Daejeon, Korea
 
 ### Work Experiences
 
+[NVIDIA Research](https://www.nvidia.com/en-us/research/), Santa Clara, CA, USA  
+  * Research Intern
+  * May 2022 - Aug. 2022 
+
 [Facebook](https://about.facebook.com/company-info/), Seattle, WA, USA  
   * Research Engineering Intern
   * May 2021 - Aug. 2021  
@@ -82,7 +86,7 @@ Korea Augmentation to the US Army, Seoul, Korea
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, and Tushar Krishna  
 In Proc of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
 May 2022  
-(to appear)
+[[Paper]](https://ieeexplore.ieee.org/document/9804641/)
 
 <a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'22</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
 Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Sivasankaran Rajamanickam, Tushar Krishna  
