@@ -4,7 +4,7 @@ title: Home
 ---
 -------------------------------------------------------
 I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
-The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_jul21.pdf).
+The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_aug22.pdf).
 
 
 
@@ -12,19 +12,20 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
  [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
    * PhD student, Computer Science
    * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
-   * Specializing in computer architecture
+   * Specialization: Computer architecture
    * Aug. 2019 -  
+
+ [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
+   * Master of Science, Computer Science
+   * Specialization: Machine learning
+   * Aug. 2019 - Dec. 2021
 
 [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)  
   * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Summa Cum Laude
   * Mar. 2013 - Feb. 2019  
 
-[State University of New York at Stony Brook](https://www.stonybrook.edu/)  
-  * Exchange Student
-  * July. 2013 - Dec. 2013  
-
-Korea Science Academy of KAIST  
+[Korea Science Academy of KAIST (KSA)](https://www.ksa.hs.kr/Eng)
   * Mar. 2010 - Feb. 2013
 
 ### Research Experiences
@@ -90,7 +91,7 @@ May 2022
 
 <a class="badge-base badge-tpds" href="https://www.computer.org/csdl/journal/td" target="_blank">TPDS'22</a> **Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication**  
 Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Sivasankaran Rajamanickam, Tushar Krishna  
-IEEE Transactions on Parallel and Distributed Systems (**TPDS**) (Special Section on Innovative R&D toward the Exascale Era)    
+IEEE Transactions on Parallel and Distributed Systems (**TPDS**)      
 Apr 2022   
 [[Paper]](https://ieeexplore.ieee.org/document/9511786)
 
