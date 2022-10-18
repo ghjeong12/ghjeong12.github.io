@@ -85,13 +85,13 @@ Korea Augmentation to the US Army, Seoul, Korea
 
 <a class="badge-base badge-hpca" href="https://hpca-conf.org/2023/" target="_blank">HPCA'23</a> **VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs**  
 <ins>Geonhwa Jeong</ins>, Sana Damani, Abhimanyu Bambhaniya, Eric Qin, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, and Tushar Krishna  
-In Proc of the 29th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)  
+In Proc. of the 29th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**)  
 Feb 2023  
 [To appear]
 
 <a class="badge-base badge-ispass" href="https://ispass.org/ispass2022/" target="_blank">ISPASS'22</a> **Understanding Data Compression in Warehouse-Scale Datacenter Services**  
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, and Tushar Krishna  
-In Proc of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
+In Proc. of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
 May 2022  
 [[Paper]](https://ieeexplore.ieee.org/document/9804641/)
 
