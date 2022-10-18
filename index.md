@@ -137,8 +137,3 @@ In Proc. of the 44th International Conference on Management of Data (**SIGMOD**)
 May 2018  
 [[Paper]](https://dl.acm.org/doi/10.1145/3183713.3196917)
 
-**3D Interactive Visualization Method with Confirmation and Prediction of the Object Shape for Assistance of Manual Image Segmentation**  
-<ins>Geonhwa Jeong</ins>, Jaeil Kim, Taeho Kim, Jinah Park  
-In Proc. of the 39th Korean Institute of Information Scientists and Engineers Fall Conference  
-Nov 2012  
-[[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02048348&language=en_EN)
