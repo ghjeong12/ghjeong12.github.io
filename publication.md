@@ -5,7 +5,7 @@ title: Publication
 -------------------------------------------------------
 For the full list, please refer to [(Google Scholar)](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
 
-### Publication 
+### 2023 
 
 <a class="badge-base badge-ispass" href="https://ispass.org/ispass2023/" target="_blank">ISPASS'23</a> **Characterization of Data Compression in Datacenters**  
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, Tushar Krishna  
@@ -19,6 +19,8 @@ In Proc. of the 29th IEEE International Symposium on High-Performance Computer A
 Feb 2023  
 [[Paper]](https://ieeexplore.ieee.org/document/10071058)
 
+### 2022
+
 <a class="badge-base badge-ispass" href="https://ispass.org/ispass2022/" target="_blank">ISPASS'22</a> **Understanding Data Compression in Warehouse-Scale Datacenter Services**  
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, Tushar Krishna  
 In Proc. of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
@@ -30,6 +32,8 @@ Gordon E. Moon, Hyoukjun Kwon, <ins>Geonhwa Jeong</ins>, Prasanth Chatarasi, Siv
 IEEE Transactions on Parallel and Distributed Systems (**TPDS**)      
 Apr 2022   
 [[Paper]](https://ieeexplore.ieee.org/document/9511786)
+
+### 2021
 
 <a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'21</a> **RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU**  
 <ins>Geonhwa Jeong</ins>, Eric Qin, Ananda Samajdar, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
@@ -55,11 +59,15 @@ In Proc. of the 26th Asia and South Pacific Design Automation Conference (**ASP-
 Jan 2021 (<span style="color:red">Best Paper Candidate</span>)  
 [[Paper]](https://dl.acm.org/doi/10.1145/3394885.3431421)
 
+### 2020
+
 <a class="badge-base badge-micro" href="http://www.microarch.org/micro53" target="_blank">MICRO'20</a> **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators Using Reinforcement Learning**  
 Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Tushar Krishna  
 In Proc. of the 53rd Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**)  
 Oct 2020  
 [[Paper]](https://ieeexplore.ieee.org/document/9251929)
+
+### 2018 
 
 <a class="badge-base badge-sigmod" href="https://sigmod2018.org/" target="_blank">SIGMOD'18</a> **TurboFlux: A Fast Continuous Subgraph Matching System for Streaming Graph Data**  
 Kyoungmin Kim, In Seo, Wook-shin Han, Jeong-Hoon Lee, Sungpack Hong, Hassan Chafi, Hyungyu Shin, <ins>Geonhwa Jeong</ins>  
