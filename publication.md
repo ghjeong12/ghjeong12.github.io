@@ -12,8 +12,6 @@ Abhimanyu Bambhaniya, Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Suvinay Subraman
 International Conference on Learning Representations Workshop on Sparsity in Neural Networks (**SNN co-located with ICLR**)   
 May 2023 (Not-archived)
 
-A.-R. Bambhaniya, S.-C. Kao, G. Jeong, S. Subramanian, A. Yazdanbakhsh, T. Krishna, “”,  , May 2023
-
 <a class="badge-base badge-ispass" href="https://ispass.org/ispass2023/" target="_blank">ISPASS'23</a> **Characterization of Data Compression in Datacenters**  
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, Tushar Krishna  
 In Proc. of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
