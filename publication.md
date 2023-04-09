@@ -7,7 +7,7 @@ For the full list, please refer to [Google Scholar](https://scholar.google.com/c
 
 ### 2023 
 
-<a class="badge-base badge-iclr" href="https://www.sparseneural.net/home" target="_blank">ICLR-SNN'23</a> **SPARC : Understanding The True Cost of Sparse Accelerators**  
+<a class="badge-base badge-iclr" href="https://www.sparseneural.net/home" target="_blank">ICLR-SNN'23</a> **SPARC : Understanding the True Cost of Sparse Accelerators**  
 Abhimanyu Bambhaniya, Sheng-Chun Kao, <ins>Geonhwa Jeong</ins>, Suvinay Subramanian, Amir Yazdanbakhsh, Tushar Krishna  
 International Conference on Learning Representations Workshop on Sparsity in Neural Networks (**SNN co-located with ICLR**)   
 May 2023 (Not-archived)
