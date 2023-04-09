@@ -271,6 +271,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.badge-iclr {
+  background-color: #485b67;
+}
 .badge-hpca {
   background-color: #e0115f;
 }
