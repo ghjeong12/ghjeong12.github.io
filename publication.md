@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 -------------------------------------------------------
-For the full list, please refer to [(Google Scholar)](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
+For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
 
 ### 2023 
 
