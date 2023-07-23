@@ -46,11 +46,12 @@ Database and Data Mining Lab at POSTECH, Pohang, Korea
   * Research Student
   * Mar. 2015 - Nov. 2015  
   
-Computer Graphics and Vision Lab in KAIST, Daejeon, Korea  
-  * Research Student
-  * June 2012 - Dec. 2012  
 
 ### Work Experiences
+
+[NVIDIA Research](https://www.nvidia.com/en-us/research/), Westford, MA, USA  
+  * Research Intern
+  * May 2023 - Aug. 2023 
 
 [NVIDIA Research](https://www.nvidia.com/en-us/research/), Santa Clara, CA, USA  
   * Research Intern
