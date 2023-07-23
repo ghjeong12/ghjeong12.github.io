@@ -16,7 +16,7 @@ May 2023 (Not-archived)
 <ins>Geonhwa Jeong</ins>, Bikash Sharma, Nick Terrell, Abhishek Dhanotia, Zhiwei Zhao, Niket Agarwal, Arun Kejariwal, Tushar Krishna  
 In Proc. of the IEEE International Symposium on Performance Analysis of Systems and Software (**ISPASS**)   
 Apr 2023 (<span style="color:red">Best Paper Candidate</span>)  
-[To appear]
+[[Paper]](https://ieeexplore.ieee.org/document/10158161)
 
 <a class="badge-base badge-hpca" href="https://hpca-conf.org/2023/" target="_blank">HPCA'23</a> **VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs**  
 <ins>Geonhwa Jeong</ins>, Sana Damani, Abhimanyu Bambhaniya, Eric Qin, Christopher J. Hughes, Sreenivas Subramoney, Hyesoon Kim, Tushar Krishna  
