@@ -4,24 +4,24 @@ title: Home
 ---
 -------------------------------------------------------
 I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
-The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_oct22.pdf).
+The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_aug_23.pdf).
 
 
 
 ### Education
  [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
-   * PhD student, Computer Science
+   * Doctor of Philosophy (PhD), Computer Science
    * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
    * Specialization: Computer architecture
-   * Aug. 2019 -  
+   * Aug. 2019 - May 2024 (expected)  
 
  [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
-   * Master of Science, Computer Science
+   * Master of Science (MS), Computer Science
    * Specialization: Machine learning
    * Aug. 2019 - Dec. 2021
 
 [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)  
-  * Bachelor of Science, Creative IT Engineering and Computer Science and Engineering (Double Major)
+  * Bachelor of Science (BS), Creative IT Engineering and Computer Science and Engineering (Double Major)
   * Summa Cum Laude
   * Mar. 2013 - Feb. 2019  
 
