@@ -4,7 +4,7 @@ title: Home
 ---
 -------------------------------------------------------
 I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
-The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_aug_23.pdf).
+The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_oct_23.pdf).
 
 
 
