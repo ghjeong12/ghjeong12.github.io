@@ -36,7 +36,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
   
 Computer Vision Lab at POSTECH, Pohang, Korea  
   * Research Student
-  * Sep. 2018 - Feb. 2018  
+  * Sep. 2018 - Feb. 2019  
   
 Compiler Optimization Research Lab at POSTECH, Pohang, Korea  
   * Research Student
