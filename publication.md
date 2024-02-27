@@ -7,7 +7,7 @@ For the full list, please refer to [Google Scholar](https://scholar.google.com/c
 
 ### 2024
 
-<a class="badge-base badge-dac" href="https://ispass.org/ispass2023/" target="_blank">DAC'24</a> **Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**  
+<a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'24</a> **Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**  
 Akshat Ramachandran, Zishen Wan, <ins>Geonhwa Jeong</ins>, John Gustafson, Tushar Krishna  
 In Proc. of the 61st Annual Design Automation Conference (**DAC**)   
 Jun 2024  
