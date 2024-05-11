@@ -3,7 +3,9 @@ layout: page
 title: Home
 ---
 -------------------------------------------------------
-I am a PhD student in computer science at Georgia Institute of Technology. I am working with my advisor [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
+I am a research scientist at Meta (AI and Systems Co-Design team).
+
+I ~~am~~ was a PhD student in computer science at Georgia Institute of Technology advised by [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) as a member of the [Synergy Lab](https://synergy.ece.gatech.edu/). 
 The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhwa_cv_oct_23.pdf).
 
 
@@ -13,7 +15,7 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
    * Doctor of Philosophy (PhD), Computer Science
    * Advisor: [Dr. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/)
    * Specialization: Computer architecture
-   * Aug. 2019 - May 2024 (expected)  
+   * Aug. 2019 - May 2024  
 
  [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) 
    * Master of Science (MS), Computer Science
@@ -27,42 +29,28 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 
 [Korea Science Academy of KAIST (KSA)](https://www.ksa.hs.kr/Eng)
   * Mar. 2010 - Feb. 2013
+ 
 
-### Research Experiences
+### Experience
 
-[Synergy Lab](https://synergy.ece.gatech.edu/) at Georgia Tech, Atlanta, GA, USA  
-  * Graduate Research Assistant
-  * Jan. 2020 -  
-  
-Computer Vision Lab at POSTECH, Pohang, Korea  
-  * Research Student
-  * Sep. 2018 - Feb. 2019  
-  
-Compiler Optimization Research Lab at POSTECH, Pohang, Korea  
-  * Research Student
-  * Sep. 2017 - Jun. 2018  
-  
-Database and Data Mining Lab at POSTECH, Pohang, Korea  
-  * Research Student
-  * Mar. 2015 - Nov. 2015  
-  
-
-### Work Experiences
+[Meta](https://about.meta.com/), Menlo Park, CA, USA  
+  * Research Scientist at AI and Systems Co-Design team
+  * May 2024 - Current  
 
 [NVIDIA Research](https://www.nvidia.com/en-us/research/), Westford, MA, USA  
-  * Research Intern
+  * Research Intern at Architecture Research Group
   * May 2023 - Aug. 2023 
 
 [NVIDIA Research](https://www.nvidia.com/en-us/research/), Santa Clara, CA, USA  
-  * Research Intern
+  * Research Intern at Architecture Research Group
   * May 2022 - Aug. 2022 
 
 [Facebook](https://about.facebook.com/company-info/), Seattle, WA, USA  
-  * Research Engineering Intern
+  * Research Engineering Intern at Capacity Engineering and Analysis team
   * May 2021 - Aug. 2021  
 
 [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro, OR, USA  
-  * Graduate Technical Intern
+  * Graduate Technical Intern at System Architecture Lab
   * May 2020 - Aug. 2020  
 
 [VoyagerX](https://www.voyagerx.com/?lang=en), Seoul, Korea
