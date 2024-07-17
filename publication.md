@@ -9,7 +9,7 @@ For the full list, please refer to [Google Scholar](https://scholar.google.com/c
 <a class="badge-base badge-iiswc" href="https://iiswc.org/iiswc2024/" target="_blank">IISWC'24</a> **Understanding Performance Implications of LLM Inference on CPUs**  
 Seonjin Na, <ins>Geonhwa Jeong</ins>, Byunghoon Ahn, Jeffrey Young, Tushar Krishna, Hyesoon Kim  
 In Proc. of the IEEE International Symposium on Workload Characterization (**IISWC**)   
-Sep 2024    
+Sep 2024 (To appear)    
 
 <a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'24</a> **Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**  
 Akshat Ramachandran, Zishen Wan, <ins>Geonhwa Jeong</ins>, John Gustafson, Tushar Krishna  
