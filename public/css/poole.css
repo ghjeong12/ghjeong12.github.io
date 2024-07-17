@@ -271,6 +271,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.badge-iiswc {
+  background-color: #A1045B;
+}
 .badge-iclr {
   background-color: #485b67;
 }
