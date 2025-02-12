@@ -287,6 +287,9 @@ tbody tr:nth-child(odd) th {
   background-color: #1101f3;
 }
 .badge-tpds {
+  background-color: #485b67;
+}
+.badge-mlsys {
   background-color: #14213d;
 }
 .badge-dac {
