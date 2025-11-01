@@ -53,21 +53,25 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
   * Graduate Technical Intern at System Architecture Lab
   * May 2020 - Aug. 2020  
 
-[VoyagerX](https://www.voyagerx.com/?lang=en), Seoul, Korea
-  * Intern
-  * Feb. 2019 - Jul. 2019  
+### Academic Service
+#### 2026
+* External Review Committee @ ASPLOS  
+* Program Committee at @ HPCA  
 
-[Samsung Research](https://research.samsung.com/), Seoul, Korea. 
-  * Field Training
-  * Jul. 2018 - Aug. 2018  
+#### 2025
+* External Review Committee @ MICRO  
+* Light Program Committee @ ISCA  
+* Technical Programme Committee @ DATE  
 
-Korea Augmentation to the US Army, Seoul, Korea  
-  * Service Member
-  * Nov. 2015 - Aug. 2017  
+#### 2023
+* Submission Chair @ ISCA
 
-[Kakao Corp](https://www.kakaocorp.com/?lang=en), Seongnam, Korea  
-  * Intern
-  * Jan. 2015 - Feb. 2015  
+#### 2022
+* Artifact Evaluation Committee @ PPoPP
 
+#### 2021
+* Artifact Evaluation Committee @ PACT
 
-
+#### Others
+* Journal reviewers for IEEE Micro, IEEE CAL, IEEE TACO, IEEE TCAS, IEEE TVSLI, IEEE TC, IEEE SSC-Magazine, JSA
+* Workshop organizer/committee for MLArchSys 2025 (@ ISCA), SCOPE 2025 (@ ICLR)
