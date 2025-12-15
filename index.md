@@ -56,7 +56,10 @@ The PDF version of CV is available at the [link]({{ site.baseurl }}public/geonhw
 ### Academic Service
 #### 2026
 * External Review Committee @ ASPLOS  
-* Program Committee at @ HPCA  
+* Program Committee at @ HPCA
+* Light Program Committee @ ISCA
+* External Review Committee @ MLSys
+
 
 #### 2025
 * External Review Committee @ MICRO  
