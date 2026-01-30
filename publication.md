@@ -4,16 +4,26 @@ title: Publication
 ---
 -------------------------------------------------------
 For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
+### 2026
+
+
+<a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Optimizing Deployment Configurations for LLM Inference**  
+Sung Min Cho, Jaewon Lee, Chunqiang Tang, Yejin Lee, <ins>Geonhwa Jeong</ins>, Anca Agape,
+In Proc. of the Ninth Annual Conference on Machine Learning and Systems (**MLSys**)  
+May 2026 (To appear)  
+
 ### 2025
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2025" target="_blank">MLSys'25</a> **Enabling Unstructured Sparse Acceleration on Structured Sparse Accelerators**  
 <ins>Geonhwa Jeong</ins>, Po-An Tsai, Abhimanyu Rajeshkumar Bambhaniya, Stephen W. Keckler, Tushar Krishna  
 In Proc. of the Eighth Annual Conference on Machine Learning and Systems (**MLSys**)  
-May 2025 (To appear)  
+May 2025  
+[[Paper]](https://openreview.net/pdf?id=Py0XA6QQAh)
 
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2025" target="_blank">MLSys'25</a> **FlexInfer: Flexible LLM Inference with CPU Computations**  
 Seonjin Na, <ins>Geonhwa Jeong</ins>, Byunghoon Ahn, Aaron Jezghani, Jeffrey Young, Christopher J. Hughes, Tushar Krishna, Hyesoon Kim  
 In Proc. of the Eighth Annual Conference on Machine Learning and Systems (**MLSys**)  
-May 2025 (To appear)  
+May 2025  
+[[Paper]](https://openreview.net/pdf?id=sFNRNTduKO)
 
 ### 2024
 <a class="badge-base badge-iiswc" href="https://iiswc.org/iiswc2024/" target="_blank">IISWC'24</a> **Understanding Performance Implications of LLM Inference on CPUs**  
