@@ -8,7 +8,7 @@ For the full list, please refer to [Google Scholar](https://scholar.google.com/c
 
 
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Optimizing Deployment Configurations for LLM Inference**  
-Sung Min Cho, Jaewon Lee, Chunqiang Tang, Yejin Lee, <ins>Geonhwa Jeong</ins>, Anca Agape,
+Sung Min Cho, Jaewon Lee, Chunqiang Tang, Yejin Lee, <ins>Geonhwa Jeong</ins>, Anca Agape, et al.  
 In Proc. of the Ninth Annual Conference on Machine Learning and Systems (**MLSys**)  
 May 2026 (To appear)  
 
