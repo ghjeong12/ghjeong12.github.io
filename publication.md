@@ -5,23 +5,33 @@ title: Publication
 -------------------------------------------------------
 For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
 ### 2026
+<a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Demystify AI Platform Design for Distributed Inference of Next-Generation LLMs** 
+Abhimanyu Bambhaniya, Ritik Raj, <ins>Geonhwa Jeong </ins>, Souvik Kundu, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Suvinay Subramanian, Tushar Krishna  
+In Proc. of the 45th International Conference on Computer-Aided Design (**ICCAD**)  
+May 2026 (To appear)  
 
+<a class="badge-base badge-iclr" href="https://icml.cc/" target="_blank">ICML'26</a> **Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction**  
+Jatin_Chhugani*, <ins>Geonhwa Jeong*</ins>, Bor-Yiing Su, Yunjie Pan, Hanmei Yang, Aayush Ankit, Jiecao Yu, Summer Deng, Yunqing Chen, Nadathur Satish, Changkyu Kim  
+In Proc. of the 43rd International Conference on Machine Learning (**ICML**)  
+July 2026  
+[[Paper]](https://openreview.net/pdf?id=oWvUK1mbYq)
 
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Optimizing Deployment Configurations for LLM Inference**  
 Sung Min Cho, Jaewon Lee, Chunqiang Tang, Yejin Lee, <ins>Geonhwa Jeong</ins>, Anca Agape, et al.  
-In Proc. of the Ninth Annual Conference on Machine Learning and Systems (**MLSys**)  
-May 2026 (To appear)  
+In Proc. of the 9th Annual Conference on Machine Learning and Systems (**MLSys**)  
+May 2026  
+[[Paper]](https://openreview.net/pdf?id=gEbKQeIdxB)
 
 ### 2025
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2025" target="_blank">MLSys'25</a> **Enabling Unstructured Sparse Acceleration on Structured Sparse Accelerators**  
 <ins>Geonhwa Jeong</ins>, Po-An Tsai, Abhimanyu Rajeshkumar Bambhaniya, Stephen W. Keckler, Tushar Krishna  
-In Proc. of the Eighth Annual Conference on Machine Learning and Systems (**MLSys**)  
+In Proc. of the 8th Annual Conference on Machine Learning and Systems (**MLSys**)  
 May 2025  
 [[Paper]](https://openreview.net/pdf?id=Py0XA6QQAh)
 
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2025" target="_blank">MLSys'25</a> **FlexInfer: Flexible LLM Inference with CPU Computations**  
 Seonjin Na, <ins>Geonhwa Jeong</ins>, Byunghoon Ahn, Aaron Jezghani, Jeffrey Young, Christopher J. Hughes, Tushar Krishna, Hyesoon Kim  
-In Proc. of the Eighth Annual Conference on Machine Learning and Systems (**MLSys**)  
+In Proc. of the 8th Annual Conference on Machine Learning and Systems (**MLSys**)  
 May 2025  
 [[Paper]](https://openreview.net/pdf?id=sFNRNTduKO)
 
