@@ -5,7 +5,7 @@ title: Publication
 -------------------------------------------------------
 For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=pdjfuqwAAAAJ&hl=en).
 ### 2026
-<a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Demystify AI Platform Design for Distributed Inference of Next-Generation LLMs** 
+<a class="badge-base badge-dac" href="https://iccad.com/2026" target="_blank">ICCAD'26</a> **Demystify AI Platform Design for Distributed Inference of Next-Generation LLMs** 
 Abhimanyu Bambhaniya, Ritik Raj, <ins>Geonhwa Jeong</ins>, Souvik Kundu, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Suvinay Subramanian, Tushar Krishna  
 In Proc. of the 45th International Conference on Computer-Aided Design (**ICCAD**)  
 Nov 2026 (To appear)  
