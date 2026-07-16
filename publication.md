@@ -8,7 +8,7 @@ For the full list, please refer to [Google Scholar](https://scholar.google.com/c
 <a class="badge-base badge-mlsys" href="https://mlsys.org/Conferences/2026" target="_blank">MLSys'26</a> **Demystify AI Platform Design for Distributed Inference of Next-Generation LLMs** 
 Abhimanyu Bambhaniya, Ritik Raj, <ins>Geonhwa Jeong </ins>, Souvik Kundu, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Suvinay Subramanian, Tushar Krishna  
 In Proc. of the 45th International Conference on Computer-Aided Design (**ICCAD**)  
-May 2026 (To appear)  
+Nov 2026 (To appear)  
 
 <a class="badge-base badge-iclr" href="https://icml.cc/" target="_blank">ICML'26</a> **Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction**  
 Jatin_Chhugani*, <ins>Geonhwa Jeong*</ins>, Bor-Yiing Su, Yunjie Pan, Hanmei Yang, Aayush Ankit, Jiecao Yu, Summer Deng, Yunqing Chen, Nadathur Satish, Changkyu Kim  
@@ -45,7 +45,7 @@ Sep 2024
 <a class="badge-base badge-dac" href="https://www.dac.com/" target="_blank">DAC'24</a> **Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**  
 Akshat Ramachandran, Zishen Wan, <ins>Geonhwa Jeong</ins>, John Gustafson, Tushar Krishna  
 In Proc. of the 61st Annual Design Automation Conference (**DAC**)   
-Jun 2024  
+June 2024  
 [[Paper]](https://arxiv.org/abs/2403.05465)
 
 
