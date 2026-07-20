@@ -11,7 +11,7 @@ In Proc. of the 45th International Conference on Computer-Aided Design (**ICCAD*
 Nov 2026 (To appear)  
 
 <a class="badge-base badge-iclr" href="https://icml.cc/" target="_blank">ICML'26</a> **Unveiling the Potential of Quantization with MXFP4: Strategies for Quantization Error Reduction**  
-Jatin_Chhugani*, <ins>Geonhwa Jeong*</ins>, Bor-Yiing Su, Yunjie Pan, Hanmei Yang, Aayush Ankit, Jiecao Yu, Summer Deng, Yunqing Chen, Nadathur Satish, Changkyu Kim  
+Jatin Chhugani*, <ins>Geonhwa Jeong*</ins>, Bor-Yiing Su, Yunjie Pan, Hanmei Yang, Aayush Ankit, Jiecao Yu, Summer Deng, Yunqing Chen, Nadathur Satish, Changkyu Kim  
 In Proc. of the 43rd International Conference on Machine Learning (**ICML**)  
 July 2026  
 [[Paper]](https://openreview.net/pdf?id=oWvUK1mbYq)
